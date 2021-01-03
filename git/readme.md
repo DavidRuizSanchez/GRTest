@@ -1,1 +1,1 @@
-Repositorio del curso de progrmaaciokn y seo
+Repositorio del curso de programacion y seo
